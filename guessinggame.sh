@@ -1,5 +1,6 @@
 ##welcome !
 numarc=$(ls -1 | wc -l)
+
 echo "Welcome user! Let's play a game!"
 function ask {
 	echo "Please guess the number of files. Type your guess:"
