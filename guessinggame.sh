@@ -1,5 +1,5 @@
 ##welcome !
-numarc=$(ls -1 | wc -l)
+numarc=$(ls -la | wc -l)
 
 echo "Welcome user! Let's play a game!"
 function ask {
